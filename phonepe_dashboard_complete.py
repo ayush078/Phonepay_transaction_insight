@@ -1,15 +1,3 @@
-"""
-PhonePe Transaction Insights Dashboard - Complete Application
-============================================================
-
-This is a comprehensive single-file application that includes:
-1. Data extraction and processing from PhonePe GitHub repository
-2. SQLite database creation and management
-3. Interactive Streamlit dashboard with multiple visualizations
-
-Author: Manus AI
-Date: January 7, 2025
-"""
 
 import os
 import json
